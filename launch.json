@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ApiCarreraApplication",
+            "request": "launch",
+            "mainClass": "informacion.api_carrera.ApiCarreraApplication",
+            "projectName": "api_carrera"
+        }
+    ]
+}
